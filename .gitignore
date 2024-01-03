@@ -1,0 +1,7 @@
+*ipynb_checkpoints/
+*.pyc
+*.pdf
+*.pickle
+/checkpoints/
+/tmp/
+/plots/
